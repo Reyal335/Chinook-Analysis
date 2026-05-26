@@ -1,0 +1,4 @@
+1. Top selling Artists
+2. Top selling Albums
+3. Sales per year/month
+4. Most popular genres
